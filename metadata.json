@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý chi tiêu của Quanh",
+  "description": "Một ứng dụng web để quản lý ngân sách cá nhân, theo dõi chi tiêu cố định, quản lý nợ và giám sát thu nhập hàng tuần. Ứng dụng cung cấp các tính năng thông minh như cảnh báo tự động, gợi ý thu nhập và trang trí theo mùa để mang lại trải nghiệm thú vị.",
+  "requestFramePermissions": []
+}
